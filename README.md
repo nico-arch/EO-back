@@ -16,6 +16,11 @@ The EO back-end project is built with the following features:
 
 - Subscriptions and Donations: The EO back-end platform allows users to make paid subscriptions to developers and donate to them. This feature helps developers monetize their work and continue improving their skills.
 
+## Documentation
+
+All project documentation will be accessible in the Documentation folder. The documentation will include information on how to install, configure, and use the EO back-end platform. Additionally, the documentation will provide guidelines on how to contribute to the project and how to report any issues or bugs that are encountered. By making the documentation accessible, we hope to make it easier for developers to get started with the platform and to contribute to its improvement.
+
+
 ## Contribution
 
 Contributions to the EO back-end project are welcome and encouraged. The open-source nature of the project means that anyone can contribute code or ideas to improve the platform. Contributors can make pull requests, report issues, and submit ideas to improve the platform.
